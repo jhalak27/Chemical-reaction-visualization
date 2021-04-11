@@ -7,9 +7,9 @@ The reaction simulation includes the breaking of old bonds, the movement of conc
 For interaction, we can use different keys and change the view using the mouse (Mouse and​ Keyboard Input​).
 
 
-![Screenshot of Reaction](Ahttps://github.com/jhalak27/Chemical-reaction-visualization/blob/main/screenshots/reaction-eg2.png)
+![Screenshot of Reaction](https://github.com/jhalak27/Chemical-reaction-visualization/blob/main/screenshots/reaction-eg2.png)
 
-![Screenshot of Reaction](Ahttps://github.com/jhalak27/Chemical-reaction-visualization/blob/main/screenshots/reaction-eg1.png)
+![Screenshot of Reaction](https://github.com/jhalak27/Chemical-reaction-visualization/blob/main/screenshots/reaction-eg1.png)
 
 ## Steps to run
 
